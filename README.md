@@ -1,0 +1,3 @@
+# P_Finger_AI_Reversing
+
+This repository supports **AI-assisted reverse engineering** for the P_Finger project: a coding agent works with [REA (Reverse Engineer Anything)](https://rea.today/get-started) and native disassembler backends (Ghidra, IDA, and others) to map binaries, document verified findings, and iterate on offline research builds. The workflow emphasizes evidence-backed notes, re-verification after patches, and controlled test environments—not live anti-cheat evasion. For context on how REA fits agent-driven RE, see [Digital Fairy Tells the Story of reverse engineering with AI | REA](https://www.youtube.com/watch?v=VwtL2C6Ihoo) and the [REA getting started guide](https://rea.today/get-started).
